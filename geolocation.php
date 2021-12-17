@@ -64,8 +64,8 @@ function ip_visitor_locale($ip = "92.52.192.222")
         } 
         return $ip;
     }
-    ip_visitor_locale();
-    //ip_visitor_locale(get_ip());
+    ip_visitor_locale("195.199.249.49");
+//    ip_visitor_locale(get_ip());
             ?>  
             
         </div>
